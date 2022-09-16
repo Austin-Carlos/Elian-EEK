@@ -81,7 +81,7 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin/Elian-EEK/tree/main"])
+	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin/Elian-EEK/blob/main/Approval.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/link.diya.ki.korbi.re.vhai")
 
@@ -95,7 +95,7 @@ def notice():
 	runtxt("\033[0;97m THIS YOUR KEY COPY TO 👉 >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m AUTOMATIC OPEN OWNER ID JUST SMS TO YOUR KEY")
 	os.system("xdg-open https://www.facebook.com/link.diya.ki.korbi.re.vhai")
-	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin/Elian-EEK/tree/main"])
+	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin/Elian-EEK/blob/main/Approval.txt"])
 	
 
 
@@ -117,7 +117,7 @@ class Main:
 		self.loop = 0
 		try:
 			#yahan pr v apna github link dalna aproval wala
-			plr = requests.get('https://github.com/ElianEdwin/Approved-Server/blob/main/NAHID/Approve.txt').text
+			plr = requests.get('https://github.com/ElianEdwin/Elian-EEK/blob/main/Approval.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;97mPREMIUM")
