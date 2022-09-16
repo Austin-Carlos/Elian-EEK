@@ -410,7 +410,7 @@ if len(sys.argv) == 2:
 		print(" [ Sosial Medi  ] \n")
 		print(" [*] Facebook  : https://www.facebook.com/link.diya.ki.korbi.re.vhai ")
 		print(" [*] WhatsApp : +8801316949744 ")
-		print(" [*] YouTube   : https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ ")
+		
 		exit(" [*]     : https://github.com/ ")
 	else:
 		Main()
