@@ -90,7 +90,7 @@ def notice():
 
  
 
-	runtxt("\n\033[0;97m  PAID TOOLS PLEASE TELLING TO OWNER ")
+	runtxt("\n\033[0;97m   TO APRROVE YOUR KEYPLEASE TELLING TO OWNER ")
 	os.system("xdg-open https://www.facebook.com/link.diya.ki.korbi.re.vhai")
 	runtxt("\033[0;97m THIS YOUR KEY COPY TO 👉 >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m AUTOMATIC OPEN OWNER ID JUST SMS TO YOUR KEY")
@@ -156,12 +156,11 @@ class Main:
 		print("%s [%s•%s] %sTOOL TYPE : %sOLD IDZ 2009"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %sV1.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
-		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ"])
 		print("───────────────────────────────────────────────────────× ")
-		print("%s [%sN%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(PAID)"%(G,R,G,Y,B))
+		print("%s [%sN%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
 		print("───────────────────────────────────────────────────────× ")
 		if tanya in ["", " "]:
