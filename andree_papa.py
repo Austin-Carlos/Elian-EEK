@@ -95,7 +95,7 @@ def notice():
 	runtxt("\033[0;97m THIS YOUR KEY COPY TO 👉 >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m AUTOMATIC OPEN OWNER ID JUST SMS TO YOUR KEY")
 	os.system("xdg-open https://www.facebook.com/link.diya.ki.korbi.re.vhai")
-	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin/Elian-EEK/blob/main/Approval.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/ElianEdwin"])
 	
 
 
