@@ -160,7 +160,7 @@ class Main:
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://youtube.com/channel/UCf8S-C-ZjSrR0uYvUaVEHKQ"])
 		print("───────────────────────────────────────────────────────× ")
-		print("%s [%sN%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free)"%(G,R,G,Y,B))
+		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
 		print("───────────────────────────────────────────────────────× ")
 		if tanya in ["", " "]:
