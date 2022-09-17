@@ -1,5 +1,7 @@
 # Elian-EEK
-This tool is paid
+This tool is Free
+
+rm -rf Elian-EEK
 
 git clone https://github.com/ElianEdwin/Elian-EEK
 
